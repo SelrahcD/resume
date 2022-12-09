@@ -1,4 +1,4 @@
-all: resume.fr.html
+all: resume.fr.html resume.en.html
 
-resume.fr.html: resume.fr.json
+%.html: %.json
 	npx resumed render $< -o $@
