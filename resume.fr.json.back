@@ -5,7 +5,6 @@
     "label": "Architecte & Craft Coach Freelance",
     "email": "c.desneuf@gmail.com",
     "phone": "06 26 14 82 73",
-    "image": "./charles.png",
     "url": "https://www.charlesdesneuf.com",
     "summary": "Après plusieurs années chez Evaneos, depuis sa phase de start-up à celle de scale-up, j'ai décidé de devenir indépendant.\n\n\n Mon but est d'aider des équipes à atteindre leur plein potentiel, à produire des logiciels qui répondent aux véritables besoins de leurs utilisateurs de manière continue, tout en gardant un rythme soutenable.\n\nJe m'intéresse depuis de nombreuses années aux pratiques et idées qui vont dans ce sens.\n\nJe suis persuadé que c'est la rencontre entre un véritable problème, une organisation adaptée, un produit bien pensé et une tech de qualité qui permet de créer de la valeur pour les utilisateurs. Une partie de mon rôle est de mettre en relation les différentes compétences des équipes de mes clients, de leur ouvrir des portes vers d’autres idées, afin de faire émerger les meilleures solutions possibles.\n\nJ'accompagne également des équipes au quotidien, en tant que développeur ou en tant que coach. J'anime des katas et des séances de mob programming pour faciliter le transfert de connaissances au sein des équipes et la montée en compétence de chacun.\n\nJe peux également intervenir plus ponctuellement pour faciliter des ateliers afin d'aider à mieux appréhender les différents besoins qui doivent être servis par le logiciel, permettre les discussions d'alignement nécessaires entre différentes parties prenantes ou encore pour déterminer quelles sont les améliorations possibles en termes d'organisation et d'architecture.",
     "location": {
@@ -304,6 +303,12 @@
     }
   ],
   "interests": [],
+  "references": [
+    {
+      "name": "Pierre-Charles Bertineau",
+      "reference": "Nous avons fait appel à Charles pour nous aider mettre à plat l'architecture logicielle de notre solution et en questionner certains fondements. Un atelier hebdomadaire d'event storming a débuté, incluant plusieurs membres de l'équipe de dev. Nous y avons convié d'autres personnes du \"métier\", afin de mieux le comprendre, et déterminer les redécoupages nécessaires dans l'architecture en place.\n\nCharles s'est rapidement fait une très bonne idée de notre environnement métier, mais aussi des enjeux qui sont les nôtres : business model mouvant, marché en pleine construction, clientèle diversifiée. C'était un point crucial dans notre appréciation de l'accompagnement que l'on sollicitait auprès de Charles : notre métier n'est pas figé, notre architecture doit rester souple quitte à traiter certaines fonctions avec moins de profondeur. Ce cycle s'est terminé et nous avons aujourd'hui une bien meilleure vision de la direction à apporter à notre archi.\n\nAyant intégré plusieurs membres à l'équipe de développement lors de cette période, nous avons également demandé à Charles d'effectuer des séances de pair programming avec les nouveaux arrivants comme les lead devs. Nous souhaitions qu'il montre son approche face à des besoins de refactoring : golden master test, sortir d'une implémentation guidée par le framework pour aller vers une architecture plus \"DDD-friendly\", bonne utilisation des patterns rencontrés dans la pratique du DDD.\n\nNous referons très certainement appel à Charles pour de futurs projets de refactoring. Son rôle de facilitateur lors des ateliers a été prépondérant dans la réussite du projet. Faire appel à une personne externe à l'organisation est aussi un vrai plus, son regard objectif nous a permis de réaliser certaines choses que nous ne pouvions plus voir !"
+    }
+  ],
   "projects": [],
   "meta": {
     "version": "v1.0.0",

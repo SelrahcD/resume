@@ -1,10 +1,13 @@
+THEME=even
+
 all: resume.fr.html resume.en.html resume.fr.pdf
 
 %.html: %.json
-	npx resumed render $< -o $@ -t even
+	npx resume export -r $< $@ -t $(THEME)
+# 	npx resumed render $< -o $@ -t $(THEME)
 
 %.pdf: %.json
-	npx resumed render $< -o $@ -t even
+	npx resume export -r $< $@ -t $(THEME)
 
 clear:
 	$(RM) resume.*.pdf resume.*.html
