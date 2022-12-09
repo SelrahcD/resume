@@ -3,11 +3,10 @@
   "basics": {
     "name": "Charles Desneuf",
     "label": "Architecte & Craft Coach Freelance",
-    "image": "",
     "email": "c.desneuf@gmail.com",
     "phone": "06 26 14 82 73",
-    "url": "",
-    "summary": "Après plusieurs années chez Evaneos, depuis sa phase de start-up à celle de scale-up, j'ai décidé de devenir indépendant. Mon but est d'aider des équipes à atteindre leur plein potentiel, à produire des logiciels qui répondent aux véritables besoins de leurs utilisateurs de manière continue, tout en gardant un rythme soutenable.\n\nJe m'intéresse depuis de nombreuses années aux pratiques et idées qui vont dans ce sens :\n\n- Domain Driven Design\n- Principes Agiles\n- Test Driven Design\n- Behavior Driven Design\n- Refactoring\n- Testing\n- Hexagonal Architecture\n- CQRS\n- Event sourcing\n- Event Storming\n- Team Topologies\n- Product Management\n\nJe suis persuadé que c'est la rencontre entre un véritable problème, une organisation adaptée, un produit bien pensé et une tech de qualité qui permet de créer de la valeur pour les utilisateurs. Une partie de mon rôle est de mettre en relation les différentes compétences des équipes de mes clients, de leur ouvrir des portes vers d’autres idées, afin de faire émerger les meilleures solutions possibles.\n\nJ'accompagne également des équipes au quotidien, en tant que développeur ou en tant que coach. J'anime des katas et des séances de mob programming pour faciliter le transfert de connaissances au sein des équipes et la montée en compétence de chacun.\n\nJe peux également intervenir plus ponctuellement pour faciliter des ateliers afin d'aider à mieux appréhender les différents besoins qui doivent être servis par le logiciel, permettre les discussions d'alignement nécessaires entre différentes parties prenantes ou encore pour déterminer quelles sont les améliorations possibles en termes d'organisation et d'architecture.",
+    "url": "http://www.charlesdesneuf.com",
+    "summary": "Après plusieurs années chez Evaneos, depuis sa phase de start-up à celle de scale-up, j'ai décidé de devenir indépendant.\n\n Mon but est d'aider des équipes à atteindre leur plein potentiel, à produire des logiciels qui répondent aux véritables besoins de leurs utilisateurs de manière continue, tout en gardant un rythme soutenable.\n\nJe m'intéresse depuis de nombreuses années aux pratiques et idées qui vont dans ce sens.\n\nJe suis persuadé que c'est la rencontre entre un véritable problème, une organisation adaptée, un produit bien pensé et une tech de qualité qui permet de créer de la valeur pour les utilisateurs. Une partie de mon rôle est de mettre en relation les différentes compétences des équipes de mes clients, de leur ouvrir des portes vers d’autres idées, afin de faire émerger les meilleures solutions possibles.\n\nJ'accompagne également des équipes au quotidien, en tant que développeur ou en tant que coach. J'anime des katas et des séances de mob programming pour faciliter le transfert de connaissances au sein des équipes et la montée en compétence de chacun.\n\nJe peux également intervenir plus ponctuellement pour faciliter des ateliers afin d'aider à mieux appréhender les différents besoins qui doivent être servis par le logiciel, permettre les discussions d'alignement nécessaires entre différentes parties prenantes ou encore pour déterminer quelles sont les améliorations possibles en termes d'organisation et d'architecture.",
     "location": {
       "countryCode": "FR",
       "address": ""
@@ -30,36 +29,23 @@
       "name": "PlayPlay",
       "position": "Coach craft",
       "startDate": "2022-08-31",
-      "endDate": "",
       "highlights": [],
-      "summary": "J'accompagne les équipes de PlayPlay dans leur montée en compétence en facilitant des Katas régulièrement.",
+      "summary": "En tant que Coach Craft j'accompagne les équipes de PlayPlay dans leur montée en compétence en facilitant des Katas régulièrement.\n Nous travaillons principalement les bonnes pratiques de code et de mise en place de tests, l'approfondissement du TDD, et la découverte du travail en pair et mob programming.",
       "url": "https://www.linkedin.com/company/playplay/"
-    },
-    {
-      "name": "Burrito Consulting",
-      "position": "Software Architect & Craft Coach Freelance",
-      "startDate": "2021-03-31",
-      "endDate": "",
-      "highlights": [],
-      "summary": "As a freelance Agile & Craft Coach, I help teams deliver software more efficiently.\n\nAs a developer, I can join your team and work with you, sharing what I know about carefully creating software that will stay manageable for the future. We'll probably speak about communicating with the rest of the company and your users, how to deliver features in small batches, testing, design, architecture, and a lot of other stuff I'm passionate about.\n\nI'm also available as a consultant. We'll spend a few days together finding a solution for an issue you have, reviewing architectural decisions to ensure you're heading in the right direction according to your goals, or discussing ways your team can improve and better deliver value for the business your working for.",
-      "url": ""
-    },
-    {
-      "name": "Burritalks.io",
-      "position": "Content Curator",
-      "startDate": "2021-01-31",
-      "endDate": "",
-      "highlights": [],
-      "summary": "Curating interesting talk for software developers and all people working in software companies.\n\nBasically, I watch talks while eating burritos, decide if I liked them or not, create an abstract, add them to the website and bother people around me until they watch them.",
-      "url": ""
     },
     {
       "name": "Kiplin",
       "position": "Coach craft",
       "startDate": "2021-04-30",
       "endDate": "2022-05-31",
-      "highlights": [],
-      "summary": "J'accompagne l'équipe de Kiplin dans la transformation de son SI afin de mieux prendre en compte l'augmentation de la taille de l'équipe et la complexité grandissante de la solution actuelle.\n\n- Facilitation d'ateliers d'Event Storming afin de mieux comprendre les différents besoins servis par la solution et de déterminer une possible nouvelle architecture\n- Refonte de systèmes existants\n- Introduction et amélioration de tests automatisés\n- Développement de nouvelles fonctionnalités\n- Pair programming avec des membres de l'équipe pour introduire de nouveaux concepts et pratiques, tels que la programmation réactive et le refactoring.",
+      "highlights": [
+        "Facilitation d'ateliers d'Event Storming afin de mieux comprendre les différents besoins servis par la solution et de déterminer une possible nouvelle architecture",
+        "Refonte de systèmes existants",
+        "Introduction et amélioration de tests automatisés",
+        "Développement de nouvelles fonctionnalités",
+        "Pair programming avec des membres de l'équipe pour introduire de nouveaux concepts et pratiques, tels que la programmation réactive et le refactoring."
+      ],
+      "summary": "J'accompagne l'équipe de Kiplin dans la transformation de son SI afin de mieux prendre en compte l'augmentation de la taille de l'équipe et la complexité grandissante de la solution actuelle.",
       "url": "https://www.linkedin.com/company/kiplin/"
     },
     {
@@ -67,94 +53,145 @@
       "position": "Développeur senior",
       "startDate": "2021-10-31",
       "endDate": "2022-01-31",
-      "highlights": [],
-      "summary": "Je suis intervenu quelques mois chez Agicap afin des les aider sur une nouvelle ligne produit en tant que développeur.\n\n- Développement d'API\n- Discussions autour de l'architecture et des découpages possibles de la solution",
+      "highlights": [
+        "Développement d'API",
+        "Discussions autour de l'architecture et des découpages possibles de la solution"
+      ],
+      "summary": "Je suis intervenu chez Agicap afin des les aider sur une nouvelle ligne produit en tant que développeur.",
+
       "url": "https://www.linkedin.com/company/agicap-corporate/"
     },
     {
       "name": "Convelio",
-      "position": "Lead Software Developer",
+      "position": "Tech Lead",
       "startDate": "2020-03-31",
       "endDate": "2020-09-30",
-      "highlights": [],
-      "summary": "I helped the team at Convelio move a core part of their system from a legacy piece of software to something more manageable. To do this, we've introduced testing, oriented-object programming best practices, and started creating a communication channel between the tech team and the rest of the company.",
-      "url": "https://www.linkedin.com/company/convelio/"
+      "highlights": [
+        "Refactoring du module de calcul de prix des transports",
+        "Mise en place de tests automatisés",
+        "Introduction aux bonnes pratiques de la programmation orientée objet",
+        "Mise en place de points de collaboration entre l'équipe technique et les opérateurs"
+      ],
+      "summary": " J'ai aidé l'équipe de Convelio, une start-up spécialisée dans le transport d'oeuvres d'art, à refactorer une partie legacy de l'existant et à introduire des pratiques de qualité et de collaboration entre l'équipe technique et le reste de l'entreprise.",
+      "url": "https://www.convelio.com/"
     },
     {
       "name": "Evaneos",
       "position": "Craft & Architecture coach",
       "startDate": "2019-05-31",
       "endDate": "2020-03-31",
-      "highlights": [],
-      "summary": "My role at Evaneos is to help teams deliver value in a sustainable way. I work hand in hand with team members in order to identify what should be delivered in order to achieve the company goals in an efficient way without compromising quality and long term throughput.\n\nI share design and architecture principles as well as testing patterns with other evaneossians as I believe long term and sustainable pace can't be achieved without technical excellence. Together we also try to identify what could be improved in the team workflow and how we can maximize value creation.",
-      "url": "https://www.linkedin.com/company/evaneos/"
+      "highlights": [
+        "Accompagnement d'équipes dans des refontes d'architecture",
+        "Accompagnement d'équipes autours de leurs pratiques de l'agilité",
+        "Accompagnement d'équipes sur la mise en place de tests automatisés",
+        "Facilitation d'ateliers de compréhension métier",
+        "Facilitation d'ateliers pour la mise en place des objectifs annuels de l'entreprise",
+        "Participation à la mise en place de la méthodologie OKRs"
+      ],
+      "summary": "Après avoir été contributeur individuel et Tech Lead je suis devenu Coach à plein temps afin de pouvoir accompagner davantage d'équipes.\\n\nEnsemble nous travaillions main dans la main afin de déterminer les points d'amélioration et les actions à mettre en place pour permettre d'atteindre les objectifs de l'entreprise, sans compromettre la qualité et la déliverabilité à long terme. ",
+      "url": "https://www.evaneos.fr/"
     },
     {
       "name": "Evaneos",
-      "position": "Software engineer",
+      "position": "Tech Lead",
       "startDate": "2013-10-31",
       "endDate": "2019-05-31",
-      "highlights": [],
-      "summary": "I'm in charge of building tools for our internal users and improving our customer flow by focusing on our needs and identifying area of improvements in the way we are working.\nI'm also helping the team grow by sharing good practices around OOP design, testing strategies, API design as well as setting up learning spaces such as code katas and bimonthly internal conference.\n\nThis lead me to start talking to conference as well on subjects related to testing and code quality.",
+      "summary": "En tant que développeur et Tech Lead chez Evaneos j'ai participé à la mise en place et à la refonte de nombreux outils critiques avec plusieurs équipes.\n\nJ'ai également contribué à créer une culture centrée autour du savoir-faire et de la relation avec les divers métiers de l'entreprise.",
+      "highlights": [
+        "Création d'outils à destinations des agences de voyages partenaires",
+        "Management d'une équipe de 5 développeurs front et back",
+        "Collaboration avec les Product Managers sur la définition de la roadmap, des objectifs à atteindre et des solutions à mettre en place.",
+        "Refonte du système de facturation de la plateforme",
+        "Refonte du système de discussion de la plateforme",
+        "Refonte du système d'attribution des demandes aux agences de voyage les plus pertinentes",
+        "Mise en place de tests",
+        "Partage de bonnes pratiques autours des tests, de la programmation orientée objet, du design d'API",
+        "Introduction de la pratique du Domain Driven Design dans l'entreprise",
+        "Facilitation d'ateliers d'Event Storming pour améliorer la découverte du métier",
+        "Mise en place d'espace d'apprentissage pour l'équipe technique avec des Dojos et des espaces de partages bi-mensuels"
+      ],
       "url": "",
       "location": "Paris"
     },
     {
-      "name": "Association Bring Music",
-      "position": "Founder & treasurer",
-      "startDate": "2008-09-30",
-      "endDate": "2019-03-31",
-      "highlights": [],
-      "summary": "Live concert organisation aiming to promote local artists.",
-      "url": "",
-      "location": "Rennes area , France"
-    },
-    {
       "name": "La Netscouade",
-      "position": "Software Engineer",
+      "position": "Développeur",
       "startDate": "2012-10-31",
       "endDate": "2013-10-31",
-      "highlights": [],
-      "summary": "Conception and development of website in web agency La Nestcouade.\nDevelopment of one of the web agency product.\nCreation of social websites for major clients.",
+      "highlights": [
+        "Conception et développement de websites en Drupal.",
+        "Creation d'une plateforme sociale pour un grand compte.",
+        "Développement de produits créés par l'agence avec l'aide du framework PHP Symfony."
+      ],
+      "summary": "",
       "url": "https://www.linkedin.com/company/la-netscouade_2/",
       "location": "Paris"
     },
     {
       "name": "Capptain",
-      "position": "Development Intern",
+      "position": "Développeur Stagiaire",
       "startDate": "2012-02-28",
       "endDate": "2012-08-31",
-      "highlights": [],
-      "summary": "Reverse geocoding system installation\nGeographical data cache implementation\nAndroid application development",
+      "highlights": [
+        "Mise en place d'une solution de Reverse Geocoding basée sur les données OpenStreetMap",
+        "Mise en place d'un cache pour des données géographiques",
+        "Développement d'application Android"
+      ],
+      "description": "Stage de fin d'études",
+      "summary": "J'ai effectué mon stage de fin d'études au sein de l'entreprise Capptain qui fournit une solutions d'analytics mobile pour Android et iOS.",
       "url": ""
     },
     {
       "name": "LOUSTIC - Laboratoire d'Observation des USages des TIC",
-      "position": "Intern",
+      "position": "Développeur Stagiaire",
       "startDate": "2011-06-30",
       "endDate": "2011-08-31",
-      "highlights": [],
-      "summary": "Development of an online poll system in PHP",
+      "highlights": [
+        "Développement d'un outil de création de formulaires paramétrables en ligne."
+      ],
+      "summary": "",
       "url": "https://www.linkedin.com/company/loustic---laboratoire-d'observation-des-usages-des-tic/",
       "location": "Rennes"
     },
     {
       "name": "Technicolor",
-      "position": "Intern",
       "startDate": "2008-06-30",
       "endDate": "2008-08-31",
-      "highlights": [],
-      "summary": "Update on internal IT team website\nInventory of outdated hardware",
+      "highlights": [
+        "Mise à jour du site Sharepoint de l'équipe IT.",
+        "Recensement du matériel non utilisé sur le site."
+      ],
+      "description": "Stage de découverte",
+      "summary": "",
       "url": "https://www.linkedin.com/company/technicolor/",
       "location": "Rennes"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "name": "Burritalks.io",
+      "position": "Curateur",
+      "startDate": "2021-01-31",
+      "highlights": [],
+      "summary": "Curation de conférences pertinentes pour les développeurs et l'ensemble des personnes travaillant dans des organisations créant des produits basés sur du logiciel",
+      "url": "https://Burritalks.io/"
+    },
+    {
+      "name": "Association Bring Music",
+      "position": "Fondateur & Trésorier",
+      "startDate": "2008-09-30",
+      "endDate": "2019-03-31",
+      "highlights": [],
+      "summary": "Organisation de concerts pour promouvoir les artistes locaux.",
+      "url": "",
+      "location": "Rennes"
+    }
+  ],
   "education": [
     {
       "institution": "Insa Rennes",
-      "area": "Computer science",
-      "studyType": "Engineer's degree",
+      "area": "Informatique",
+      "studyType": "Diplôme d'ingénieur en informatique",
       "startDate": "2007-12-31",
       "endDate": "2012-12-31",
       "score": "",
@@ -162,8 +199,8 @@
     },
     {
       "institution": "Universidad de Buenos Aires",
-      "area": "Computer science",
-      "studyType": "",
+      "area": "Informatique",
+      "studyType": "Semestre à l'Université de Buenos Aires, en Argentine",
       "startDate": "2011-12-31",
       "endDate": "2012-12-31",
       "score": "",
@@ -175,8 +212,6 @@
   "publications": [
     {
       "name": "Recettes de tests",
-      "publisher": null,
-      "releaseDate": "",
       "summary": "A talk, in French, about testing patterns that make a tests suite manageable and pain free for a long time even with a growing project.",
       "url": "https://www.youtube.com/watch?v=Bjw6N7bjzf4"
     }
@@ -253,17 +288,32 @@
       "keywords": []
     },
     {
-      "name": "C",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C++",
+      "name": "CI/CD",
       "level": "",
       "keywords": []
     },
     {
       "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CQRS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture Hexagonale",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Clean Code",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Topologies",
       "level": "",
       "keywords": []
     },
@@ -279,6 +329,11 @@
     },
     {
       "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
       "level": "",
       "keywords": []
     },
@@ -308,7 +363,7 @@
       "keywords": []
     },
     {
-      "name": "Produits Docker",
+      "name": "Docker",
       "level": "",
       "keywords": []
     },
@@ -341,19 +396,29 @@
       "name": "SQL",
       "level": "",
       "keywords": []
+    },
+    {
+      "name": "Event Sourcing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "fluency": "Professional Working",
+      "fluency": "Compétence professionnelle",
       "language": "Anglais"
     },
     {
-      "fluency": "Professional Working",
+      "fluency": "Compétence professionnelle",
       "language": "Espagnol"
     },
     {
-      "fluency": "Native Speaker",
+      "fluency": "Langue maternelle",
       "language": "Français"
     }
   ],
