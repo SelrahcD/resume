@@ -1,4 +1,4 @@
-THEME=actual
+THEME=even
 
 define BUILD
 npx resume export -r $< $@ -t $(THEME)
