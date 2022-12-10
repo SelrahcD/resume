@@ -16,7 +16,6 @@
     "jsonresume-theme-paper": "^0.5.0",
     "jsonresume-theme-spartan": "^0.3.0",
     "jsonresume-theme-standard-resume": "^2.1.0",
-    "resume-cli": "^3.0.8",
-    "resumed": "^1.0.3"
+    "resume-cli": "^3.0.8"
   }
 }
