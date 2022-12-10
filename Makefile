@@ -1,4 +1,4 @@
-THEME=even
+THEME=actual
 
 all: resume.fr.html resume.en.html resume.fr.pdf resume.en.pdf
 
