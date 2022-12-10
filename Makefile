@@ -1,12 +1,16 @@
 THEME=actual
 
+define BUILD
+npx resume export -r $< $@ -t $(THEME)
+endef
+
 all: resume.fr.html resume.en.html resume.fr.pdf resume.en.pdf
 
 %.html: %.json
-	npx resume export -r $< $@ -t $(THEME)
+	$(BUILD)
 
 %.pdf: %.json
-	npx resume export -r $< $@ -t $(THEME)
+	$(BUILD)
 
 clear:
 	$(RM) resume.*.pdf resume.*.html
