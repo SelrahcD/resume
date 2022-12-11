@@ -1,2 +1,12 @@
-/pass-through /resume.fr.html    200
+# 200! --> 200 means rewrite instead of redirect, ! means overwrite the Hugo generated index.html alias
+# EN language rewrites
+/index.html /resume.en.html  200! Language=en
+/           /resume.en.html  200! Language=en
 
+# FR language rewrites
+/index.html /resume.fr.html  200! Language=fr
+/           /resume.fr.html  200! Language=fr
+
+# Other language rewrites
+/index.html /resume.en.html  200!
+/           /resume.en.html  200!
