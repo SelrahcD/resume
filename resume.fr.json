@@ -97,9 +97,10 @@
         "Accompagnement d'équipes sur la mise en place de tests automatisés",
         "Facilitation d'ateliers de compréhension métier",
         "Facilitation d'ateliers pour la mise en place des objectifs annuels de l'entreprise",
-        "Participation à la mise en place de la méthodologie OKRs"
+        "Participation à la mise en place de la méthodologie OKRs",
+        "Animation de la communauté Tech"
       ],
-      "summary": "Après avoir été contributeur individuel et Tech Lead je suis devenu Coach à plein temps afin de pouvoir accompagner davantage d'équipes.\n\nEnsemble nous travaillons main dans la main afin de déterminer les points d'amélioration et les actions à mettre en place pour permettre d'atteindre les objectifs de l'entreprise, sans compromettre la qualité et la déliverabilité à long terme. ",
+      "summary": "Après avoir été contributeur individuel et Tech Lead je suis devenu Coach à plein temps afin de pouvoir accompagner davantage d'équipes.\n\nEnsemble nous travaillons main dans la main afin de déterminer les points d'amélioration et les actions à mettre en place pour permettre d'atteindre les objectifs de l'entreprise, sans compromettre la qualité et la délivrabilité à long terme. ",
       "url": "https://www.evaneos.fr/",
       "location": "Paris"
     },
@@ -111,17 +112,32 @@
       "summary": "En tant que développeur et Tech Lead chez Evaneos j'ai participé à la mise en place et à la refonte de nombreux outils critiques avec plusieurs équipes.\n\nJ'ai également contribué à créer une culture centrée autour du savoir-faire et de la relation avec les divers métiers de l'entreprise.",
       "highlights": [
         "Création d'outils à destinations des agences de voyages partenaires",
-        "Management d'une équipe de 5 développeurs front et back",
+        "Management d'une équipe de 6 développeurs front et back",
         "Collaboration avec les Product Managers sur la définition de la roadmap, des objectifs à atteindre et des solutions à mettre en place.",
-        "Refonte du système de facturation de la plateforme",
         "Refonte du système de discussion de la plateforme",
         "Refonte du système d'attribution des demandes aux agences de voyage les plus pertinentes",
         "Mise en place de tests",
         "Partage de bonnes pratiques autours des tests, de la programmation orientée objet, du design d'API",
-        "Introduction de la pratique du Domain Driven Design dans l'entreprise",
         "Facilitation d'ateliers d'Event Storming pour améliorer la découverte du métier",
-        "Mise en place d'espace d'apprentissage pour l'équipe technique avec des Dojos et des espaces de partages bi-mensuels"
+        "Mise en place d'espace d'apprentissage pour l'équipe technique avec des Dojos et des espaces de partages bi-mensuels",
+        "Animation de la communauté Tech"
       ],
+      "url": "https://www.evaneos.fr/",
+      "location": "Paris"
+    },
+    {
+      "name": "Evaneos",
+      "position": "Developpeur",
+      "startDate": "2013-10-31",
+      "endDate": "2015-03-31",
+      "highlights": [
+        "Création d'outils à destinations des agences de voyages partenaires",
+        "Création d'un framework interne front-back basé sur des API REST pour faciliter la création d'outils",
+        "Introduction de la pratique du Domain Driven Design dans l'entreprise",
+        "Refonte du système de facturation de la plateforme",
+        "Mise en place de tests"
+      ],
+      "summary": "En tant que contributeur individuel j'ai participé à la création de nouveaux outils à destination des agences de voyages partenaires, ainsi qu'à la création du framework nous permettant de construire rapidement ces outils. J'ai également été chargé de la refonte du système de paiement de la plateforme.",
       "url": "https://www.evaneos.fr/",
       "location": "Paris"
     },
