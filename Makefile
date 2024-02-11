@@ -4,7 +4,7 @@ define BUILD
 npx resume export -r $< $@ -t $(THEME)
 endef
 
-FILES=resume.fr.html resume.en.html resume.fr.pdf resume.en.pdf
+FILES=resume.fr.html resume.en.html resume.fr.pdf resume.en.pdf resume.fr.cto.html resume.fr.cto.pdf 
 
 all: $(FILES)
 
