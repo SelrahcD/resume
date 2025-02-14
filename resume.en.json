@@ -7,10 +7,10 @@
     "email": "c.desneuf@gmail.com",
     "phone": "+33 06 26 14 82 73",
     "url": "https://www.charlesdesneuf.com",
-    "summary": "I trully believe that it is the combination of a real problem, an appropriate organization, a well-thought-out product, and quality tech that creates value for users. I view myself as someone who connects the various skills of my clients' teams, opens the doors to other ideas, to help them create the best possible solutions.\n\n I do this by bringing a mix of technical and architectural skills, facilitation technics, an interest for product management and an agile mindset.",
+    "summary": "I trully believe that it is the combination of real problems, an appropriate organization, a well-thought-out product, and quality tech that creates value for users. I view myself as someone who connects the various skills of my clients' teams, opens the doors to other ideas, to help them create the best possible solutions.\n\n\n I do this by bringing a mix of technical and architectural skills, facilitation technics, an interest for product management and an agile mindset.",
     "location": {
-      "countryCode": "FR",
-      "address": ""
+      "countryCode": "France",
+      "address": "Nantes"
     },
     "profiles": [
       {
@@ -22,64 +22,67 @@
         "network": "Twitter",
         "username": "Selrahcd",
         "url": "https://twitter.com/Selrahcd"
+      },
+      {
+        "network": "Blog",
+        "url": "https://blog.charlesdesneuf.com/"
       }
     ]
   },
   "work": [
-     {
+    {
       "name": "West Finance",
-      "position": "Coach Tech - Scrum Master",
+      "position": "Tech Coach - Scrum Master",
       "startDate": "2023-06",
-      "endDate": "",
       "highlights": [
         "Coaching the team on technical practices and delivering value more often",
         "Facilitating workshops to gain business knowledge",
-        "Helpin the team make architectural choices"
+        "Helping the team make architectural choices"
       ],
-      "summary": "I help the team at West Finance deliver a software for streamlining the process of selling appartments.",
+      "summary": "I help the team at West Finance deliver software for streamlining the process of selling apartments.",
       "url": "https://www.westfinances.com/"
     },
-     {
+    {
       "name": "CircularX",
       "position": "Consultant - Facilitator",
       "startDate": "2023-10-01",
       "endDate": "2023-12-20",
       "highlights": [
-        "Conducting interviews to have an understanding of the current state of the system and the organization",
-        "Facilitatin multiple workshop sessions (EventStorming) to grasp the complexity of their business",
-        "Helping the team reflect on the part of the system in need for attention to reach their objectives",
-        "Helping the team reflect on a potential new organization to realign software and teams"
+        "Conducting interviews to understand the current state of the system and the organization",
+        "Facilitating multiple workshop sessions (EventStorming) to grasp the complexity of their business",
+        "Helping the team reflect on the parts of the system in need of attention to reach their objectives",
+        "Helping the team consider a potential new organization to realign software and teams"
       ],
-      "summary": "We helped the team at CircularX reflect on the current situation of their software system and imagine a future state for it based on the understanding of the business they are serving and the current company priorities. The future state will also serve as the basis for realigning teams with software subsystems.",
+      "summary": "We helped the team at CircularX reflect on the current situation of their software system and envision a future state for it based on the understanding of the business they serve and the current company priorities. The future state will also serve as the foundation for realigning teams with software subsystems.",
       "url": "https://circularx.com/"
     },
-     {
+    {
       "name": "Daxium",
-      "position": "Coach Tech",
+      "position": "Tech Coach",
       "startDate": "2023-03",
       "endDate": "2023-10",
       "highlights": [
-        "Facilitating retrospectives to improve the team delivery of features",
+        "Facilitating retrospectives to improve the team's delivery of features",
         "Improving test suite execution time by a factor of 5",
         "Mentoring developers"
       ],
-      "summary": "I helped the team reflect on their organization and see what they could change to improve their delivery. I also participated in legacy remediation efforts.",
+      "summary": "I assisted the team at Daxium in reflecting on their organization and identifying changes to enhance their delivery efficiency. I also contributed to legacy system remediation efforts.",
       "url": "https://www.daxium.com/"
     },
     {
       "name": "PlayPlay",
-      "position": "Coach craft",
+      "position": "Tech Coach",
       "startDate": "2022-08-31",
       "endDate": "2022-12-31",
       "highlights": [
-        "Facilitating Kata in Mob Programming setting"
+        "Facilitating Kata in a Mob Programming setting"
       ],
-      "summary": "I facilitated mutiple dojo sessions with PlayPlay back-end team",
+      "summary": "I facilitated multiple dojo sessions with the PlayPlay back-end team.",
       "url": "https://playplay.com"
     },
     {
       "name": "Kiplin",
-      "position": "Coach craft",
+      "position": "Tech Coach",
       "startDate": "2021-04-30",
       "endDate": "2022-05-31",
       "highlights": [
@@ -94,12 +97,12 @@
     },
     {
       "name": "Agicap",
-      "position": "Développeur senior",
+      "position": "Senior Developer",
       "startDate": "2021-10-31",
       "endDate": "2022-01-31",
       "highlights": [
-       "API Development",
-       "Discussing about the architecture and possible ways to structure the solution"
+        "API development",
+        "Discussing the architecture and possible ways to structure the solution"
       ],
       "summary": "I helped the team at Agicap introduce a new product line dealing with online payments.",
       "url": "https://agicap.com/"
@@ -114,38 +117,38 @@
         "Refactoring of a legacy application",
         "Introducing BDD practices to increase communication between developers and business people"
       ],
-      "summary": "At Convelio we moved a core part of their system that makes quotation for artwork transportation from a legacy piece of software to something more manageable. We've introduced testing, oriented-object programming, and started creating a communication channel between the tech team and the rest of the company.",
+      "summary": "At Convelio, we moved a core part of their system that manages quotations for artwork transportation from a legacy piece of software to something more manageable. We introduced testing, object-oriented programming, and started creating a communication channel between the tech team and the rest of the company.",
       "url": "https://www.convelio.com"
     },
     {
       "name": "Evaneos",
-      "position": "Craft & Architecture coach",
+      "position": "Craft & Architecture Coach",
       "startDate": "2019-05-31",
       "endDate": "2020-03-31",
       "highlights": [
         "Coaching teams towards more predictable delivery",
         "Sharing design and architectural principles with team members",
-        "Paricipating in company-wide architectural decisions",
+        "Participating in company-wide architectural decisions",
         "Facilitating discovery workshops"
       ],
-      "summary": "My role at Evaneos was to help teams deliver value in a sustainable way. I worked hand in hand with team members in order to identify what should be delivered in order to achieve the company goals in an efficient way without compromising quality and long term throughput.",
+      "summary": "My role at Evaneos was to help teams deliver value in a sustainable way. I worked closely with team members to identify what should be delivered to achieve the company goals efficiently without compromising quality and long-term throughput.",
       "url": "https://www.evaneos.com/"
     },
     {
       "name": "Evaneos",
-      "position": "Software engineer - Tech Lead",
+      "position": "Software Engineer - Tech Lead",
       "startDate": "2013-10-31",
       "endDate": "2019-05-31",
       "highlights": [
-        "Managing team of back-end and front-end developers",
-        "Working hand-in-hand with Product Managers to deliver the right feature",
+        "Managing a team of back-end and front-end developers",
+        "Working hand-in-hand with Product Managers to deliver the right features",
         "Creating APIs",
-        "Running the tech community of practices by organizing dojos and facilitating mini conferences",
-        "Sharing knowlege with peers",
+        "Running the tech community of practices by organizing dojos and facilitating mini-conferences",
+        "Sharing knowledge with peers",
         "Refactoring legacy code",
         "Facilitating workshops"
       ],
-      "summary": "I was in charge of building tools for our internal users and improving our customer flow. I quickly started to run the tech community of practices to help spreading knowlege accross teams",
+      "summary": "I was in charge of building tools for our internal users and improving our customer flow. I quickly started to run the tech community of practices to help spread knowledge across teams.",
       "location": "Paris"
     },
     {
@@ -154,23 +157,23 @@
       "startDate": "2012-10-31",
       "endDate": "2013-10-31",
       "highlights": [
-        "Developing of one of the web agency product.",
-        "Developing of social websites for major clients."
+        "Developing one of the web agency's products.",
+        "Developing social websites for major clients."
       ],
-      "summary": "Conception and development of website in web agency La Nestcouade",
-      "url": "https://www.linkedin.com/company/la-netscouade_2/",
+      "summary": "Conception and development of websites in web agency La Netscouade.",
+      "url": "https://lanetscouade.com/",
       "location": "Paris"
     }
   ],
   "volunteer": [
-      {
-      "name": "Association Bring Music",
-      "position": "Founder & treasurer",
+    {
+      "organization": "Association Bring Music",
+      "position": "Founder & Treasurer",
       "startDate": "2008-09-30",
       "endDate": "2019-03-31",
       "highlights": [],
-      "summary": "With friends from my music band, we decided to organize events to promote local artists.",
-      "location": "Rennes area , France"
+      "summary": "With friends from my music band, we organized events to promote local artists.",
+      "location": "Rennes area, France"
     }
   ],
   "education": [
@@ -200,15 +203,15 @@
   "languages": [
     {
       "fluency": "Professional Working",
-      "language": "Anglais"
+      "language": "English"
     },
     {
       "fluency": "Professional Working",
-      "language": "Espagnol"
+      "language": "Spanish"
     },
     {
       "fluency": "Native Speaker",
-      "language": "Français"
+      "language": "French"
     }
   ],
   "interests": [],
@@ -217,32 +220,31 @@
     {
       "name": "Améliorer vos tests automatisés",
       "startDate": "2022-01-01",
-      "description": "A video course I've written, recorded and edited on practices that makes our tests easier to deal with, read and maintain over the long run.",
+      "description": "A video course I've written, recorded, and edited on practices that make our tests easier to deal with, read, and maintain over the long run.",
       "url": "https://formation.charlesdesneuf.com/ameliorez-vos-tests-automatises"
     },
     {
-    "name": "Speaker",
-    "startDate": "2017-01-01",
-    "description": "I like to share ideas with others and had the opportunity to speak at various events in France",
-    "highlights": [
-      "De CRUD à DDD pas à pas: Moving from an CRUD application developped with RAD tooling to a more business oriented system",
-      "Faire grandir une équipe technique: Sharing some of the ideas we've tried at Evanos to scale the tech team from 5 to 45 persons",
-      "Les exceptions, oui, mais pas n'importe comment: Explaining my mental model on how we should deal with exceptions",
-      "PhpStorm = <3: Showing that mastering an IDE gives us superpowers when it comes to refactoring or writing boilerplate code",
-      "Recette de tests: Explaining various ideas to make tests that are easier to understand and maintain",
-      "Tester du legacy grâce à l'Approval Testing: Demonstrating that it's possible to add tests on a system even if it has some random behaviours",
-      "Vous n'avez pas besoin de ça: Ranting about the complexity of our projects and sharing ideas to adapt the right level of complexity to the problem we are solving"
-    ],
-    "url": "https://www.charlesdesneuf.com/talks/"
-  },
-  {
-    "name": "Burritalks.io",
-    "startDate": "2020-06",
-    "description": "I curate a list of talk I found interesting for software developers and all people working in software companies.",
-    "highlights": [],
-    "url": "https://burritalks.io/"
-  }
-],
+      "name": "Speaker",
+      "startDate": "2017-01-01",
+      "description": "I enjoy sharing ideas with others and have had the opportunity to speak at various events in France.",
+      "highlights": [
+        "De CRUD à DDD pas à pas: Transitioning from a CRUD application developed with RAD tooling to a more business-oriented system.",
+        "Faire grandir une équipe technique: Sharing some of the strategies we've employed at Evaneos to scale the tech team from 5 to 45 persons.",
+        "Les exceptions, oui, mais pas n'importe comment: Explaining my mental model on how we should deal with exceptions.",
+        "PhpStorm = <3: Demonstrating that mastering an IDE gives us superpowers when it comes to refactoring or writing boilerplate code.",
+        "Recette de tests: Explaining various strategies to create tests that are easier to understand and maintain.",
+        "Tester du legacy grâce à l'Approval Testing: Demonstrating that it's possible to add tests to a system even if it exhibits some random behaviors.",
+        "Vous n'avez pas besoin de ça: Discussing the complexity of our projects and sharing ideas to adapt the right level of complexity to the problem we're solving."
+      ],
+      "url": "https://www.charlesdesneuf.com/talks/"
+    },
+    {
+      "name": "Burritalks.io",
+      "startDate": "2020-06",
+      "description": "I curate a list of talks that I find interesting for software developers and all people working in software companies.",
+      "url": "https://burritalks.io/"
+    }
+  ],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"

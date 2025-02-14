@@ -27,6 +27,31 @@
   },
   "work": [
     {
+      "name": "Wakam",
+      "position": "Coach craft",
+      "startDate": "2023-05",
+      "highlights": [],
+      "summary": "Je collabore avec une des équipes de Wakam, une compagnie d'assurance, pour retravailler l'architecture et la manière de tester une application s'appuyant sur l'Event Sourcing et une blockchain.",
+      "location": "Paris - Télétravail"
+    },
+    {
+      "name": "WestFinance",
+      "position": "Coach craft/Agile et PO",
+      "startDate": "2023-05",
+      "highlights": [],
+      "summary": "J'accompagne l'équipe de développement nouvellement formée de West Finance afin de développer une application de gestion pour de la vente immobilière.\n J'aide l'équipe à travailler sur la compréhension du besoin des utilisateurs, à faire des choix techniques. \n J'ai également rempli le rôle de PO pendant quelques mois afin d'accélérer la livraison d'une première version de l'application.",
+      "location": "Nantes"
+    },
+    {
+      "name": "Daxium",
+      "position": "Coach Agile",
+      "startDate": "2023-04",
+      "endDate": "2023-09",
+      "highlights": [],
+      "summary": "J'ai rejoint l'équipe technique de Daxium pour un projet de refonte d'une partie de leur système d'information.\n Nous avons également travaillé ensemble sur la manière délivrer des fonctionnalités de manière plus régulière.",
+      "location": "Nantes"
+    },
+    {
       "position": "Formateur",
       "startDate": "2022-06",
       "highlights": [],
