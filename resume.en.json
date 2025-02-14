@@ -31,6 +31,19 @@
   },
   "work": [
     {
+      "name": "Wakam",
+      "position": "Craft Coach",
+      "startDate": "2023-05",
+      "highlights": [
+        "Coaching the team on technical practices around testing and TDD",
+        "Facilitating workshops to gain business knowledge",
+        "Helping the team make architectural choices and owning them",
+        "Refactoring an Event Sourced application to solve some architectural problems slowing down the team"
+      ],
+      "summary": "I collaborated with one of Wakam's teams, an insurance company, to rework the architecture and testing approach of an application based on Event Sourcing and blockchain.",
+      "location": "Paris - Remote"
+    },
+    {
       "name": "West Finance",
       "position": "Tech Coach - Scrum Master",
       "startDate": "2023-06",
