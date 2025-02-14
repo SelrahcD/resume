@@ -3,4 +3,6 @@ resume.html
 resume.**.pdf
 resume.pdf
 node_modules/
+public/
+resume.json
 
