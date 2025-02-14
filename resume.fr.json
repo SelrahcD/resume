@@ -27,6 +27,17 @@
   },
   "work": [
     {
+      "name": "MAIF",
+      "position": "Consultant DDD",
+      "startDate": "2024-11",
+      "highlights": [
+        "Facilitation d'ateliers",
+        "Propositions d'architecture"
+      ],
+      "summary": "J'aide les équipes de la MAIF à déployer une initiative Data Mesh. Je les accompagne sur la connaissance du métier pour permettre d'identifier des frontières de domain et faciliter la communication entre les contextes bornées.",
+      "location": "Niort - Télétravail"
+    },
+    {
       "name": "Wakam",
       "position": "Coach craft",
       "startDate": "2025-05",
