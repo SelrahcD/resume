@@ -29,7 +29,8 @@
     {
       "name": "Wakam",
       "position": "Coach craft",
-      "startDate": "2023-05",
+      "startDate": "2025-05",
+      "endDate": "2024-10",
       "highlights": [],
       "summary": "Je collabore avec une des équipes de Wakam, une compagnie d'assurance, pour retravailler l'architecture et la manière de tester une application s'appuyant sur l'Event Sourcing et une blockchain.",
       "location": "Paris - Télétravail"
