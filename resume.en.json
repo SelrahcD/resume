@@ -7,7 +7,7 @@
     "email": "c.desneuf@gmail.com",
     "phone": "+33 06 26 14 82 73",
     "url": "https://www.charlesdesneuf.com",
-    "summary": "After several years at Evaneos, from its startup phase to scale-up, I decided to become independent.\n\nMy goal is to help teams reach their full potential, to produce software that continuously meets their users' true needs, while maintaining a sustainable pace.\n\n I truly believe that it is the combination of real problems, an appropriate organization, a well-thought-out product, and quality tech that creates value for users. I view myself as someone who connects the various skills of my clients' teams, opens the doors to other ideas, to help them create the best possible solutions.\n\nI do this by bringing a mix of technical and architectural skills, facilitation techniques, an interest for product management and an agile mindset.",
+    "summary": "After several years at Evaneos, from its startup phase to scale-up, I decided to become independent.\n\nMy goal is to help teams reach their full potential, to produce software that continuously meets their users' true needs, while maintaining a sustainable pace.\n\nI truly believe that it is the combination of real problems, an appropriate organization, a well-thought-out product, and quality tech that creates value for users. I view myself as someone who connects the various skills of my clients' teams, opens the doors to other ideas, to help them create the best possible solutions.\n\nI do this by bringing a mix of technical and architectural skills, facilitation techniques, an interest for product management and an agile mindset.",
     "location": {
       "countryCode": "France",
       "address": "Nantes"
@@ -32,7 +32,7 @@
   "work": [
     {
       "name": "MAIF",
-      "position": "DDD Consultant",
+      "position": "DDD - Architecture Consultant",
       "startDate": "2024-11",
       "highlights": [
         "Workshop facilitation",
@@ -73,8 +73,8 @@
     {
       "name": "CircularX",
       "position": "Consultant - Facilitator",
-      "startDate": "2023-10-01",
-      "endDate": "2023-12-20",
+      "startDate": "2023-10",
+      "endDate": "2023-12",
       "highlights": [
         "Conducting interviews to understand the current state of the system and the organization",
         "Facilitating multiple workshop sessions (EventStorming) to grasp the complexity of their business",
@@ -107,8 +107,8 @@
     {
       "name": "PlayPlay",
       "position": "Tech Coach",
-      "startDate": "2022-08-31",
-      "endDate": "2022-12-31",
+      "startDate": "2022-08",
+      "endDate": "2022-12",
       "highlights": [
         "Facilitating Kata in a Mob Programming setting"
       ],
@@ -118,8 +118,8 @@
     {
       "name": "Kiplin",
       "position": "Senior Software Engineer - Tech Coach",
-      "startDate": "2021-04-30",
-      "endDate": "2022-05-31",
+      "startDate": "2021-04",
+      "endDate": "2022-05",
       "highlights": [
         "Facilitating Event Storming workshops to better understand the various needs served by the solution and to determine a possible new architecture",
         "Redesigning existing systems",
@@ -133,8 +133,8 @@
     {
       "name": "Agicap",
       "position": "Senior Developer",
-      "startDate": "2021-10-31",
-      "endDate": "2022-01-31",
+      "startDate": "2021-10",
+      "endDate": "2022-01",
       "highlights": [
         "API development",
         "Discussing the architecture and possible ways to structure the solution"
@@ -145,8 +145,8 @@
     {
       "name": "Convelio",
       "position": "Lead Software Developer",
-      "startDate": "2020-03-31",
-      "endDate": "2020-09-30",
+      "startDate": "2020-03",
+      "endDate": "2020-09",
       "highlights": [
         "Introducing tests in a legacy codebase",
         "Refactoring of a legacy application",
@@ -158,8 +158,8 @@
     {
       "name": "Evaneos",
       "position": "Craft & Architecture Coach",
-      "startDate": "2019-05-31",
-      "endDate": "2020-03-31",
+      "startDate": "2019-05",
+      "endDate": "2020-03",
       "highlights": [
         "Coaching teams towards more predictable delivery",
         "Sharing design and architectural principles with team members",
@@ -172,8 +172,8 @@
     {
       "name": "Evaneos",
       "position": "Engineering Manager",
-      "startDate": "2015-05-31",
-      "endDate": "2019-05-31",
+      "startDate": "2015-05",
+      "endDate": "2019-05",
       "highlights": [
         "Managing a team of 6 back-end and front-end developers",
         "Working hand-in-hand with Product Managers to deliver the right features",
@@ -188,8 +188,8 @@
     {
       "name": "Evaneos",
       "position": "Software Engineer",
-      "startDate": "2013-10-31",
-      "endDate": "2015-05-31",
+      "startDate": "2013-10",
+      "endDate": "2015-05",
       "highlights": [
         "Managing a team of back-end and front-end developers",
         "Working hand-in-hand with Product Managers to deliver the right features",
@@ -206,8 +206,8 @@
     {
       "name": "La Netscouade",
       "position": "Software Engineer",
-      "startDate": "2012-10-31",
-      "endDate": "2013-10-31",
+      "startDate": "2012-10",
+      "endDate": "2013-10",
       "highlights": [
         "Developing one of the web agency's products.",
         "Developing social websites for major clients."
@@ -221,8 +221,8 @@
     {
       "organization": "Association Bring Music",
       "position": "Founder & Treasurer",
-      "startDate": "2008-09-30",
-      "endDate": "2019-03-31",
+      "startDate": "2008-09",
+      "endDate": "2019-03",
       "highlights": [],
       "summary": "With friends from my music band, we organized events to promote local artists.",
       "location": "Rennes area, France"
@@ -233,8 +233,8 @@
       "institution": "Insa Rennes",
       "area": "Computer science",
       "studyType": "Engineer's degree",
-      "startDate": "2007-12-31",
-      "endDate": "2012-12-31",
+      "startDate": "2007-12",
+      "endDate": "2012-12",
       "score": "",
       "courses": []
     },
@@ -242,8 +242,8 @@
       "institution": "Universidad de Buenos Aires",
       "area": "Computer science",
       "studyType": "",
-      "startDate": "2011-12-31",
-      "endDate": "2012-12-31",
+      "startDate": "2011-12",
+      "endDate": "2012-12",
       "score": "",
       "courses": []
     }
@@ -271,13 +271,13 @@
   "projects": [
     {
       "name": "Améliorer vos tests automatisés",
-      "startDate": "2022-01-01",
+      "startDate": "2022-01",
       "description": "A video course I've written, recorded, and edited on practices that make our tests easier to deal with, read, and maintain over the long run.",
       "url": "https://formation.charlesdesneuf.com/ameliorez-vos-tests-automatises"
     },
     {
       "name": "Speaker",
-      "startDate": "2017-01-01",
+      "startDate": "2017-01",
       "description": "I enjoy sharing ideas with others and have had the opportunity to speak at various events in France.",
       "highlights": [
         "De CRUD à DDD pas à pas: Transitioning from a CRUD application developed with RAD tooling to a more business-oriented system.",
