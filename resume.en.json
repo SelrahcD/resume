@@ -39,11 +39,12 @@
         "Architecture proposals"
       ],
       "summary": "I help MAIF teams deploy a Data Mesh initiative. I support them in understanding the business domain to help identify domain boundaries and facilitate communication between bounded contexts.",
-      "location": "Niort - Remote"
+      "location": "Niort - Remote",
+      "url": "https://www.maif.fr/"
     },
     {
       "name": "Wakam",
-      "position": "Craft Coach",
+      "position": "Craft Coach - Staff Engineer",
       "startDate": "2024-05",
       "endDate": "2024-10",
       "highlights": [
@@ -53,7 +54,8 @@
         "Refactoring an Event Sourced application to solve some architectural problems slowing down the team"
       ],
       "summary": "I collaborated with one of Wakam's teams, an insurance company, to rework the architecture and testing approach of an application based on Event Sourcing and blockchain.",
-      "location": "Paris - Remote"
+      "location": "Paris - Remote",
+      "url": "https://www.wakam.com/"
     },
     {
       "name": "West Finance",
@@ -115,7 +117,7 @@
     },
     {
       "name": "Kiplin",
-      "position": "Tech Coach",
+      "position": "Senior Software Engineer - Tech Coach",
       "startDate": "2021-04-30",
       "endDate": "2022-05-31",
       "highlights": [
@@ -125,7 +127,7 @@
         "Developing new features",
         "Pair programming with team members to introduce new concepts and practices, such as reactive programming and refactoring."
       ],
-      "summary": "I assisted the Kiplin team in transforming their IT system to better accommodate the growing size of the team and the increasing complexity of the current solution.",
+      "summary": "I assisted the Kiplin team in transforming their IT system to better accommodate the growing size of the team and the increasing complexity of the current solution. Part of my time was dedicated to redesigning a microservice architecture while the other was about mentoring the team.",
       "url": "https://www.kiplin.com"
     },
     {
@@ -169,9 +171,25 @@
     },
     {
       "name": "Evaneos",
-      "position": "Software Engineer - Tech Lead",
-      "startDate": "2013-10-31",
+      "position": "Engineering Manager",
+      "startDate": "2015-05-31",
       "endDate": "2019-05-31",
+      "highlights": [
+        "Managing a team of 6 back-end and front-end developers",
+        "Working hand-in-hand with Product Managers to deliver the right features",
+        "Running the tech community of practices by organizing dojos and facilitating mini-conferences",
+        "Refactoring legacy code",
+        "Facilitating workshops for other teams and at the company level"
+      ],
+      "summary": "As an Engineering Manager, I managed multiple teams, up to 6 front-end and back-end developers. Together, we worked on several critical parts of the company system, with projects varying from internal tools creation to user-facing systems and legacy remediation.\n\nI also ensured that we worked hand-in-hand with our Product Manager, UX Designer, and Business People, by facilitating workshops and improving our workflows.\n\nAs a manager, I ensured the team members kept learning and growing in their roles by coaching them, giving them space to safely experiment, and sharing my knowledge.\n\nAt the time I was also in charge of the technical community growth, and organized the bi-weekly internal open conferences and katas.",
+      "location": "Paris",
+      "url": "https://www.evaneos.com/"
+    },
+    {
+      "name": "Evaneos",
+      "position": "Software Engineer",
+      "startDate": "2013-10-31",
+      "endDate": "2015-05-31",
       "highlights": [
         "Managing a team of back-end and front-end developers",
         "Working hand-in-hand with Product Managers to deliver the right features",
@@ -179,10 +197,11 @@
         "Running the tech community of practices by organizing dojos and facilitating mini-conferences",
         "Sharing knowledge with peers",
         "Refactoring legacy code",
-        "Facilitating workshops"
+        "Facilitating workshops for my team"
       ],
-      "summary": "I was in charge of building tools for our internal users and improving our customer flow. I quickly started to run the tech community of practices to help spread knowledge across teams.",
-      "location": "Paris"
+      "summary": "I was in charge of building tools for our internal users and improving our customer flow by focusing on our needs and identifying areas of improvement in how we work.\n\nI was also helping the team grow by sharing good practices around OOP design, testing strategies, and API design. I introduced Domain Driven Design in the company and had a crucial role in creating a learning organisation. I helped set up learning spaces such as code katas and was the host of the bimonthly internal conferences for tech teams for almost my whole time in the company.\n\nThis led me to start talking at conferences as well on testing and code quality subjects.",
+      "location": "Paris",
+      "url": "https://www.evaneos.com/"
     },
     {
       "name": "La Netscouade",
