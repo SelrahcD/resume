@@ -1,10 +1,10 @@
-THEME=even
+THEME=onepage-plus
 
 define BUILD
-npx resume export -r $< $@ -t $(THEME)
+npx resume export -r $< $@
 endef
 
-FILES=resume.fr.html resume.en.html resume.fr.pdf resume.en.pdf resume.fr.cto.html resume.fr.cto.pdf 
+FILES=resume.fr.html resume.en.html
 
 all: $(FILES)
 
@@ -14,6 +14,7 @@ pdf: $(filter %.pdf,$(FILES))
 
 %.html: %.json
 	$(BUILD)
+	./add_css.sh $@
 
 %.pdf: %.json
 	$(BUILD)
